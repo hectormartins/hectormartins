@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, visitante!
 
-<!--
-**hectormartins/hectormartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-Here are some ideas to get you started:
+## 🌟 Informações Públicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é **Hector Martins** (também conhecido como **Monarca**). Atualmente, moro em **Porto real - RJ, Brasil** e meu objetivo é ajudar outros desenvolvedores de forma que melhore meu aprendizado de forma multua. 🚀
+
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos e Jogar destiny 2 . Desde **2023** venho me envolvendo em projetos que impulsionam o crescimento da comunidade tecnológica. 🤝
+
+## 📝 Informações Detalhadas
+
+<!-- Coloque suas informações pessoais que você deseja compartilhar -->
+
+- 👤 **Nome:** Hector Martins Graças   
+- 🎂 **Idade:** 28 anos   
+- 📍 **Localização:** Porto Rea - Rio de Janeiro, Brasil   
+- 💻 **Stack:** Python, Ruby, SQL   
+- 📚 **Aprendizado Atual:** PHP, Banco de Dados   
+- 🎓 **Formação:** Cursando Sistemas de informação - Anhanguera      
+
+## 😎 Curiosidades sobre Mim
+---
+
+<!-- Coloque alguma curiosidade pra mostrar que você não é só código -->
+
+-  Sou apaixonado por música, toco violino desde os meus 13 anos, foi amor a primeira vista. 
+-  Comecei a programar em **2023**, meu amigo Gabriel me apresentou a este mercado fenomenal na qual sou completamente apaixonado hoje em dia.
+- Gosto de treinar na academia e jogar video game, tenho isso como hobbi principal   
+-  Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.   
+-  Ainda não tenho experiencias no mercado de trabalho, mas estou buscando uma oportunidade para contribuir ainda mais com este mercado.   
+
+---
