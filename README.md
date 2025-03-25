@@ -25,8 +25,8 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
 <!-- Coloque alguma curiosidade pra mostrar que você não é só código -->
 
 -  Sou apaixonado por música, toco violino desde os meus 13 anos, foi amor a primeira vista. 
--  Comecei a programar em **2023**, meu amigo Gabriel me apresentou a este mercado fenomenal na qual sou completamente apaixonado hoje em dia.
-- Gosto de treinar na academia e jogar video game, tenho isso como hobbi principal   
+-  Comecei a programar em **2023**, meus amigos Gabriel e João Victor me apresentaram  a este mercado fenomenal na qual sou completamente apaixonado hoje em dia.
+- Gosto de treinar na academia e jogar video game, tenho isso como meus hobbie principais   
 -  Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.   
 -  Ainda não tenho experiencias no mercado de trabalho, mas estou buscando uma oportunidade para contribuir ainda mais com este mercado.   
 
